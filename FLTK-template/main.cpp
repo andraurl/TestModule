@@ -1,4 +1,3 @@
-// Lec2Ex1c.cpp, an improvement of Lec2Ex1c.cpp
 
 #include "std_lib_facilities.h"
 
