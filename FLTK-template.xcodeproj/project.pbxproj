@@ -75,8 +75,10 @@
 			isa = PBXGroup;
 			children = (
 				420C2F9421E253DA0017E7FA /* Frameworks */,
-				420C2F5121E2374F0017E7FA /* FLTK-template */,
 				420C2F5021E2374F0017E7FA /* Products */,
+				460CC86C21F1F5E0001423C3 /* Test.hpp */,
+				460CC86D21F1F632001423C3 /* main.cpp */,
+				460CC86B21F1F5E0001423C3 /* TestVisual.hpp */,
 			);
 			sourceTree = "<group>";
 		};
@@ -86,16 +88,6 @@
 				420C2F4F21E2374F0017E7FA /* FLTK-template */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		420C2F5121E2374F0017E7FA /* FLTK-template */ = {
-			isa = PBXGroup;
-			children = (
-				460CC86C21F1F5E0001423C3 /* Test.hpp */,
-				460CC86D21F1F632001423C3 /* main.cpp */,
-				460CC86B21F1F5E0001423C3 /* TestVisual.hpp */,
-			);
-			path = "FLTK-template";
 			sourceTree = "<group>";
 		};
 		420C2F9421E253DA0017E7FA /* Frameworks */ = {
